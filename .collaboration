@@ -6,8 +6,18 @@
   },
   {
     "ModuleName": "PCPage/FGC_登录",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-12T08:54:48.7360939+08:00",
     "ModuleType": 1,
-    "IconType": 1
+    "IconType": 1,
+    "ToRemoveFiles": [
+      "Pages\\内建页面\\FGC_登录.json",
+      "Pages\\内建页面\\FGC_登录.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_401页面",
