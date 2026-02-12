@@ -243,16 +243,5 @@
     "ModuleName": "PermissionGroupConfig",
     "ModuleType": 44,
     "IconType": 45
-  },
-  {
-    "ModuleName": "PCPage/test",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "yelan",
-      "Email": "596572660@qq.com"
-    },
-    "LockDateTime": "2026-02-12T10:04:40.3485193+08:00",
-    "ModuleType": 1,
-    "IconType": 1
   }
 ]
