@@ -1,13 +1,13 @@
 {
   "IntegrateWithOtherApplication": {
-    "Password": "WT!~(4xZ6@7K"
+    "Password": "0kJ0G6)7xfP@"
   },
   "ShareCommandContainers": [],
   "ListviewLoadingIndicatorSettings": {},
-  "ServerPropertySecurityID": "ea12001e-b9bc-4249-9be6-995f8ee6f843",
+  "ServerPropertySecurityID": "5f6560be-2598-4eeb-b906-eb0e90a7914f",
   "GlobalProperties": [],
-  "WebSitePort": 51682,
-  "UserServicePort": 17485,
+  "WebSitePort": 45391,
+  "UserServicePort": 63988,
   "StartDateFiscalYear": 1,
   "BaseOnStartingMonth": true,
   "MultipleLanguageSettings": {

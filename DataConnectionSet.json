@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "ConnectionString": "Server=192.168.192.102;User ID=root;Password=ygjh@123;Database=CRM;Port=3306",
+    "DataBaseType": "6f9b2f11-4f6a-43db-9b65-bbd46872e09d",
+    "ID": "MySql1"
+  }
+]
