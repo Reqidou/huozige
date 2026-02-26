@@ -485,8 +485,18 @@
   },
   {
     "ModuleName": "ApplicationSetting",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:33:03.1943018+08:00",
     "ModuleType": 8,
-    "IconType": 10
+    "IconType": 10,
+    "ToRemoveFiles": [
+      "ApplicationSettings.json",
+      "favicon.ico"
+    ]
   },
   {
     "ModuleName": "Theme",
