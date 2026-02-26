@@ -495,33 +495,87 @@
   },
   {
     "ModuleName": "image/内置图片",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:45.9885354+08:00",
     "ModuleType": 37,
-    "IconType": 39
+    "IconType": 39,
+    "ToRemoveFiles": [
+      "image\\内置图片"
+    ]
   },
   {
     "ModuleName": "Image/fgc_built-in-page-401.png",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:45.9885016+08:00",
     "ModuleType": 38,
-    "IconType": 41
+    "IconType": 41,
+    "ToRemoveFiles": [
+      "image\\内置图片\\fgc_built-in-page-401.png"
+    ]
   },
   {
     "ModuleName": "Image/fgc_built-in-page-maintained.png",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:45.9885237+08:00",
     "ModuleType": 38,
-    "IconType": 41
+    "IconType": 41,
+    "ToRemoveFiles": [
+      "image\\内置图片\\fgc_built-in-page-maintained.png"
+    ]
   },
   {
     "ModuleName": "Image/fgc_built_in_page_disconnected.png",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:45.9885259+08:00",
     "ModuleType": 38,
-    "IconType": 41
+    "IconType": 41,
+    "ToRemoveFiles": [
+      "image\\内置图片\\fgc_built_in_page_disconnected.png"
+    ]
   },
   {
     "ModuleName": "Image/fgc_loading.gif",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:45.9885282+08:00",
     "ModuleType": 38,
-    "IconType": 41
+    "IconType": 41,
+    "ToRemoveFiles": [
+      "image\\内置图片\\fgc_loading.gif"
+    ]
   },
   {
     "ModuleName": "Image/fgc_logo_dark.png",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:45.9885304+08:00",
     "ModuleType": 38,
-    "IconType": 41
+    "IconType": 41,
+    "ToRemoveFiles": [
+      "image\\内置图片\\fgc_logo_dark.png"
+    ]
   },
   {
     "ModuleName": "UserService",
