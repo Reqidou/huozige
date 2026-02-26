@@ -644,5 +644,16 @@
     "ModuleName": "PermissionGroupConfig",
     "ModuleType": 44,
     "IconType": 45
+  },
+  {
+    "ModuleName": "Table/contract_base",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "YMX-HW\\HUAWEI",
+      "Email": "1198756055@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:38:32.4426314+08:00",
+    "ModuleType": 7,
+    "IconType": 24
   }
 ]
