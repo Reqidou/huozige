@@ -1,14 +1,34 @@
 [
   {
     "ModuleName": "Table/contract_detail",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:28.5906337+08:00",
     "ModuleType": 7,
     "IconType": 24,
+    "ToRemoveFiles": [
+      "Tables\\contract_detail.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
     "ModuleName": "Table/contract_info",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:28.5906435+08:00",
     "ModuleType": 7,
     "IconType": 24,
+    "ToRemoveFiles": [
+      "Tables\\contract_info.json",
+      "ForguncyDB.sqlite3"
+    ],
     "ExclusiveType": 0
   },
   {
