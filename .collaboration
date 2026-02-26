@@ -655,5 +655,27 @@
     "LockDateTime": "2026-02-26T08:38:32.4426314+08:00",
     "ModuleType": 7,
     "IconType": 24
+  },
+  {
+    "ModuleName": "PCPage/contract_base_详情页面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "YMX-HW\\HUAWEI",
+      "Email": "1198756055@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:39:41.1948335+08:00",
+    "ModuleType": 1,
+    "IconType": 1
+  },
+  {
+    "ModuleName": "PCPage/contract_base_列表页面",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "YMX-HW\\HUAWEI",
+      "Email": "1198756055@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:39:41.194901+08:00",
+    "ModuleType": 1,
+    "IconType": 1
   }
 ]
