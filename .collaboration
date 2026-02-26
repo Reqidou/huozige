@@ -67,138 +67,406 @@
   },
   {
     "ModuleName": "Pages/内置页面",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4118505+08:00",
     "ModuleType": 6,
-    "IconType": 7
+    "IconType": 7,
+    "ToRemoveFiles": [
+      "Pages\\内置页面"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_登录",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4096394+08:00",
     "ModuleType": 1,
-    "IconType": 1
+    "IconType": 1,
+    "ToRemoveFiles": [
+      "Pages\\内置页面\\FGC_登录.json",
+      "Pages\\内置页面\\FGC_登录.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_401页面",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4097396+08:00",
     "ModuleType": 1,
-    "IconType": 1
+    "IconType": 1,
+    "ToRemoveFiles": [
+      "Pages\\内置页面\\FGC_401页面.json",
+      "Pages\\内置页面\\FGC_401页面.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_修改密码",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4098101+08:00",
     "ModuleType": 1,
-    "IconType": 1
+    "IconType": 1,
+    "ToRemoveFiles": [
+      "Pages\\内置页面\\FGC_修改密码.json",
+      "Pages\\内置页面\\FGC_修改密码.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_连接已断开",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.409854+08:00",
     "ModuleType": 1,
-    "IconType": 1
+    "IconType": 1,
+    "ToRemoveFiles": [
+      "Pages\\内置页面\\FGC_连接已断开.json",
+      "Pages\\内置页面\\FGC_连接已断开.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_忘记密码",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4098875+08:00",
     "ModuleType": 1,
-    "IconType": 1
+    "IconType": 1,
+    "ToRemoveFiles": [
+      "Pages\\内置页面\\FGC_忘记密码.json",
+      "Pages\\内置页面\\FGC_忘记密码.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_邮件订阅",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4103678+08:00",
     "ModuleType": 1,
-    "IconType": 1
+    "IconType": 1,
+    "ToRemoveFiles": [
+      "Pages\\内置页面\\FGC_邮件订阅.json",
+      "Pages\\内置页面\\FGC_邮件订阅.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_维护中",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4104532+08:00",
     "ModuleType": 1,
-    "IconType": 1
+    "IconType": 1,
+    "ToRemoveFiles": [
+      "Pages\\内置页面\\FGC_维护中.json",
+      "Pages\\内置页面\\FGC_维护中.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_两步验证_扫码页面",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4106688+08:00",
     "ModuleType": 1,
-    "IconType": 1
+    "IconType": 1,
+    "ToRemoveFiles": [
+      "Pages\\内置页面\\FGC_两步验证_扫码页面.json",
+      "Pages\\内置页面\\FGC_两步验证_扫码页面.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_两步验证_验证页面",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4107776+08:00",
     "ModuleType": 1,
-    "IconType": 1
+    "IconType": 1,
+    "ToRemoveFiles": [
+      "Pages\\内置页面\\FGC_两步验证_验证页面.json",
+      "Pages\\内置页面\\FGC_两步验证_验证页面.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_修改用户信息",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4110242+08:00",
     "ModuleType": 1,
-    "IconType": 1
+    "IconType": 1,
+    "ToRemoveFiles": [
+      "Pages\\内置页面\\FGC_修改用户信息.json",
+      "Pages\\内置页面\\FGC_修改用户信息.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_重置密码",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4111089+08:00",
     "ModuleType": 1,
-    "IconType": 1
+    "IconType": 1,
+    "ToRemoveFiles": [
+      "Pages\\内置页面\\FGC_重置密码.json",
+      "Pages\\内置页面\\FGC_重置密码.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_重置密码发送邮件成功",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4111646+08:00",
     "ModuleType": 1,
-    "IconType": 1
+    "IconType": 1,
+    "ToRemoveFiles": [
+      "Pages\\内置页面\\FGC_重置密码发送邮件成功.json",
+      "Pages\\内置页面\\FGC_重置密码发送邮件成功.rd"
+    ]
   },
   {
     "ModuleName": "Pages/内建手机页面",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4124765+08:00",
     "ModuleType": 6,
-    "IconType": 7
+    "IconType": 7,
+    "ToRemoveFiles": [
+      "Pages\\内建手机页面"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_登录_手机版",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4120068+08:00",
     "ModuleType": 2,
-    "IconType": 2
+    "IconType": 2,
+    "ToRemoveFiles": [
+      "Pages\\内建手机页面\\FGC_登录_手机版.json",
+      "Pages\\内建手机页面\\FGC_登录_手机版.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_401页面_手机版",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4120668+08:00",
     "ModuleType": 2,
-    "IconType": 2
+    "IconType": 2,
+    "ToRemoveFiles": [
+      "Pages\\内建手机页面\\FGC_401页面_手机版.json",
+      "Pages\\内建手机页面\\FGC_401页面_手机版.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_修改密码_手机版",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4121144+08:00",
     "ModuleType": 2,
-    "IconType": 2
+    "IconType": 2,
+    "ToRemoveFiles": [
+      "Pages\\内建手机页面\\FGC_修改密码_手机版.json",
+      "Pages\\内建手机页面\\FGC_修改密码_手机版.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_连接已断开_手机版",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4121498+08:00",
     "ModuleType": 2,
-    "IconType": 2
+    "IconType": 2,
+    "ToRemoveFiles": [
+      "Pages\\内建手机页面\\FGC_连接已断开_手机版.json",
+      "Pages\\内建手机页面\\FGC_连接已断开_手机版.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_忘记密码_手机版",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4121925+08:00",
     "ModuleType": 2,
-    "IconType": 2
+    "IconType": 2,
+    "ToRemoveFiles": [
+      "Pages\\内建手机页面\\FGC_忘记密码_手机版.json",
+      "Pages\\内建手机页面\\FGC_忘记密码_手机版.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_邮件订阅_手机版",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4122541+08:00",
     "ModuleType": 2,
-    "IconType": 2
+    "IconType": 2,
+    "ToRemoveFiles": [
+      "Pages\\内建手机页面\\FGC_邮件订阅_手机版.json",
+      "Pages\\内建手机页面\\FGC_邮件订阅_手机版.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_维护中_手机版",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4122887+08:00",
     "ModuleType": 2,
-    "IconType": 2
+    "IconType": 2,
+    "ToRemoveFiles": [
+      "Pages\\内建手机页面\\FGC_维护中_手机版.json",
+      "Pages\\内建手机页面\\FGC_维护中_手机版.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_两步验证_扫码页面_手机版",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4123184+08:00",
     "ModuleType": 2,
-    "IconType": 2
+    "IconType": 2,
+    "ToRemoveFiles": [
+      "Pages\\内建手机页面\\FGC_两步验证_扫码页面_手机版.json",
+      "Pages\\内建手机页面\\FGC_两步验证_扫码页面_手机版.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_两步验证_验证页面_手机版",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4123629+08:00",
     "ModuleType": 2,
-    "IconType": 2
+    "IconType": 2,
+    "ToRemoveFiles": [
+      "Pages\\内建手机页面\\FGC_两步验证_验证页面_手机版.json",
+      "Pages\\内建手机页面\\FGC_两步验证_验证页面_手机版.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_修改用户信息_手机版",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.412421+08:00",
     "ModuleType": 2,
-    "IconType": 2
+    "IconType": 2,
+    "ToRemoveFiles": [
+      "Pages\\内建手机页面\\FGC_修改用户信息_手机版.json",
+      "Pages\\内建手机页面\\FGC_修改用户信息_手机版.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_重置密码发送邮件成功_手机版",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4124505+08:00",
     "ModuleType": 2,
-    "IconType": 2
+    "IconType": 2,
+    "ToRemoveFiles": [
+      "Pages\\内建手机页面\\FGC_重置密码发送邮件成功_手机版.json",
+      "Pages\\内建手机页面\\FGC_重置密码发送邮件成功_手机版.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_重置密码_手机版",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4124731+08:00",
     "ModuleType": 2,
-    "IconType": 2
+    "IconType": 2,
+    "ToRemoveFiles": [
+      "Pages\\内建手机页面\\FGC_重置密码_手机版.json",
+      "Pages\\内建手机页面\\FGC_重置密码_手机版.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/页面1",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:32:34.4124871+08:00",
     "ModuleType": 1,
-    "IconType": 1
+    "IconType": 1,
+    "ToRemoveFiles": [
+      "Pages\\页面1.json",
+      "Pages\\页面1.rd"
+    ]
   },
   {
     "ModuleName": "MasterPCPage/FGC_母版页",
