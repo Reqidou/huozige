@@ -500,8 +500,21 @@
   },
   {
     "ModuleName": "Theme",
+    "State": 1,
+    "LockedBy": {
+      "UserName": "QDZXXXX\\14747",
+      "Email": "null@qq.com"
+    },
+    "LockDateTime": "2026-02-26T08:33:07.6308086+08:00",
     "ModuleType": 9,
-    "IconType": 11
+    "IconType": 11,
+    "ToRemoveFiles": [
+      "Theme\\CellTypeStyles",
+      "Theme\\ListViewStyles",
+      "Theme\\StyleDefaultNames",
+      "Theme\\ThemeConfig",
+      "Reports\\DefaultTheme.rdlx-theme"
+    ]
   },
   {
     "ModuleName": "image/内置图片",
